@@ -1,6 +1,6 @@
 const links = [
-	{ id: 1, label: 'Issues', href: '/issues' },
-	{ id: 2, label: 'Dashboard', href: '/' },
+	{ id: 1, label: 'Dashboard', href: '/' },
+	{ id: 2, label: 'Issues', href: '/issues' },
 ];
 
 export default links;
